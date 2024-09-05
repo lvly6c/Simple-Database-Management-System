@@ -1,0 +1,25 @@
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\bin\Debug\simple app.exe.config
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\bin\Debug\simple app.exe
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\bin\Debug\simple app.pdb
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\bin\Debug\simple app.xml
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple app.vbprojResolveAssemblyReference.cache
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple_app.Form1.resources
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple_app.frmAddNew.resources
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple_app.Resources.resources
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple app.vbproj.GenerateResource.Cache
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple app.exe
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple app.xml
+D:\SourceCodes\Visual Studio\OOP\Lesson\simple app\simple app\obj\Debug\simple app.pdb
+C:\Users\ACER\Desktop\simple app\simple app\bin\Debug\simple app.exe.config
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple app.exe
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple app.xml
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple app.pdb
+C:\Users\ACER\Desktop\simple app\simple app\bin\Debug\simple app.exe
+C:\Users\ACER\Desktop\simple app\simple app\bin\Debug\simple app.pdb
+C:\Users\ACER\Desktop\simple app\simple app\bin\Debug\simple app.xml
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple app.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple_app.Resources.resources
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple app.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple_app.frmConnection.resources
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple_app.frmMain.resources
+C:\Users\ACER\Desktop\simple app\simple app\obj\Debug\simple_app.frmAddNew.resources
